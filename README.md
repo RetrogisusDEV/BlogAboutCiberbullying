@@ -2,7 +2,7 @@
 
 `70/100 - Prof: Ladera`
 
-https://retrogisusdev.github.io/blog-about-ciberbullying/
+[https://retrogisusdev.github.io/blog-about-ciberbullying/](https://retrogisusdev.github.io/BlogAboutCiberbullying/)
 
 ## MilimalistMaterial
 
